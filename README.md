@@ -7,7 +7,7 @@ This repository contains different vairants of gans and their tensorflow 2 imple
 ## Requiremnts:
 Tensorflow 2.0 \
 Tensorflow Addons \
-Tensorflow Datasets\
+Tensorflow Datasets
 
 ## GAN Variants :
 1. GAN
