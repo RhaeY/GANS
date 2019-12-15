@@ -1,15 +1,15 @@
 # GANS
 TF2 Implementation of different variants of GANS
 
-# Introduction:
+## Introduction:
 This repository contains different vairants of gans and their tensorflow 2 implementation
 
-# Requiremnts:
+## Requiremnts:
 1. Tensorflow 2.0+
 2. Tensorflow Addons
 3. Tensorflow Datasets
 
-# GAN Variants :
+## GAN Variants :
 1. GAN
 2. WGAN
 3. CGAN
