@@ -2,7 +2,7 @@
 TF2 Implementation of different variants of GANS
 
 # Introduction:
-This repository contains different vairants of gans and their tensorflow implementation
+This repository contains different vairants of gans and their tensorflow 2 implementation
 
 # GAN Variants :
 1. GAN
